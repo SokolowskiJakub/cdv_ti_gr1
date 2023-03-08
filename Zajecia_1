@@ -1,2 +1,6 @@
-Siemano SIemano
-Pierwsze Zajęcia
+Aby zapisać Do Githuba należy
+git status
+git add *
+
+git commit -m "modified"
+git push origin main
