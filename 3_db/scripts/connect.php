@@ -1,2 +1,4 @@
 <?php
-	echo "db connect";
+	//echo "db connect";
+$conn = new mysqli(	"localhost","root","","cdv_gr_1");
+//echo $conn->connect_errno;
